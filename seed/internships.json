@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Frontend Developer Intern",
+    "company": "Example Digital",
+    "location": "Remote",
+    "mode": "Remote",
+    "description": "Help build and improve responsive web interfaces.",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "apply_url": "https://example.com/frontend-intern"
+  },
+  {
+    "title": "Python Developer Intern",
+    "company": "Sample Technologies",
+    "location": "Pune, India",
+    "mode": "Hybrid",
+    "description": "Assist with Python scripting, APIs, and data processing.",
+    "skills": ["Python", "REST APIs", "SQL"],
+    "apply_url": "https://example.com/python-intern"
+  },
+  {
+    "title": "Backend Developer Intern",
+    "company": "Demo Labs",
+    "location": "Bengaluru, India",
+    "mode": "On-site",
+    "description": "Work on backend services and database integrations.",
+    "skills": ["Node.js", "Express", "SQLite"],
+    "apply_url": "https://example.com/backend-intern"
+  }
+]
